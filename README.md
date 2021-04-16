@@ -1,6 +1,8 @@
 # Data-Science-ML---NLP-Regression
 Option 1 - Data Science/ML
+
 Gregory Happ
+
 
 My project was predicting the time an article was written using the article's title as input for a machine learning model. Dask was used to load the dataset, then scikit-learn was used for both the natural language processing and the machine learning. The chosen model was a stochastic gradient descent regressor. Finally, I saved the model using dill, so it can be conveniently deployed.
 
